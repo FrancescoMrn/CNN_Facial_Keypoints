@@ -45,7 +45,7 @@ git clone https://github.com/FrancescoMrn/CNN_Facial_Keypoints
 cd CNN_Facial_Keypoints
 ```
 
-2. Create (and activate) a new environment, named `cnn_keypoints` with Python 3.6. If prompted to proceed with the install `(Proceed [y]/n)` type y. Similarly it is possible to use any environment will all the requirements reported in **requirements.txt**
+2. Create (and activate) a new environment, named `cnn_keypoints` with Python 3.6. If prompted to proceed with the install `(Proceed [y]/n)` type y. Similarly, it is possible to use any environment will all the requirements reported in **requirements.txt**
 
 	- __Linux__ or __Mac__:
 	```
@@ -93,8 +93,8 @@ In this folder are training and tests set of image/keypoint data, and their resp
 
 ## Possible improvements
 
- - Implementation of Tensorboard to explore train and evaluation loss.
- - Hyperparameters optimization.
+ - Implementation of Tensorboard to explore train and evaluation loss
+ - Hyperparameters optimization
  - Live face detection and keypoints regression.
  - Extend project to another dataset: https://www.kaggle.com/c/facial-keypoints-detection/overview
  - Facial Keypoints Detection with Inception model structure
