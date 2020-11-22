@@ -93,7 +93,6 @@ In this folder are training and tests set of image/keypoint data, and their resp
 
 ## Possible improvements
 
- - Implementation of Tensorboard to explore train and evaluation loss
  - Hyperparameters optimization
  - Live face detection and keypoints regression.
  - Extend project to another dataset: https://www.kaggle.com/c/facial-keypoints-detection/overview
